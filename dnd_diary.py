@@ -1,5 +1,3 @@
-# dnd_diary.py
-
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import json
