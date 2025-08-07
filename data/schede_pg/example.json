@@ -1,0 +1,22 @@
+{
+  "id_diario": "1",
+  "nome": "Example",
+  "classe": "",
+  "razza": "",
+  "livello": 0,
+  "ca": 0,
+  "iniziativa": 0,
+  "velocita": 0,
+  "pf_massimi": 0,
+  "pf_attuali": 0,
+  "pf_temporanei": 0,
+  "forza": 0,
+  "destrezza": 0,
+  "costituzione": 0,
+  "intelligenza": 0,
+  "saggezza": 0,
+  "carisma": 0,
+  "equipaggiamento": [],
+  "abilita": [],
+  "incantesimi": []
+}
